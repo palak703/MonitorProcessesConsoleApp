@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MonitorProcessesConsoleApp": {
+      "commandName": "Project"
+    }
+  }
+}

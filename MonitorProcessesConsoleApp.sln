@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitor", "Monitor\Monitor.csproj", "{6B2A71A7-4463-4FB7-B845-BB0ACFFE79D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor.test", "MonitorProcessesConsoleAppTests\Monitor.test.csproj", "{02F76606-7966-4E3D-B5A4-D0803F8515DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2A71A7-4463-4FB7-B845-BB0ACFFE79D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2A71A7-4463-4FB7-B845-BB0ACFFE79D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2A71A7-4463-4FB7-B845-BB0ACFFE79D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2A71A7-4463-4FB7-B845-BB0ACFFE79D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F76606-7966-4E3D-B5A4-D0803F8515DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F76606-7966-4E3D-B5A4-D0803F8515DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F76606-7966-4E3D-B5A4-D0803F8515DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F76606-7966-4E3D-B5A4-D0803F8515DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9420FC87-922D-4084-A5E0-FB6F91F4BBE3}
+	EndGlobalSection
+EndGlobal
